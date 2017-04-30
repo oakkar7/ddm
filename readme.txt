@@ -1,4 +1,4 @@
-## This is an DDM () C++ library for Arduino, created by Oakkar7/MYANMAR
+# # This is an DDM () C++ library for Arduino, created by Oakkar7/MYANMAR
 
 (1) A Lib using small form-factor pluggable (SFP) module DDM Digital diagnostics monitoring (DDM) protocol.
 (2)An Optical Power Meter with Arduino example is added for design example.
