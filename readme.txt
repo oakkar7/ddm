@@ -1,4 +1,4 @@
-This is an DDM () C++ library for Arduino, created by Oakkar7/MYANMAR
+## This is an DDM () C++ library for Arduino, created by Oakkar7/MYANMAR
 
 (1) A Lib using small form-factor pluggable (SFP) module DDM Digital diagnostics monitoring (DDM) protocol.
 (2)An Optical Power Meter with Arduino example is added for design example.
@@ -9,7 +9,7 @@ By      : oakkar7, Myanmar
 blog    ; okelectronic.wordpress.com
 code    : https://github.com/oakkar7
 
-Credit to:
+## Credit to:
 1) Nokia 5110 LCD is powered by Adafruit, Adafruit-PCD8544-Nokia-5110-LCD-library
 https://github.com/adafruit/Adafruit-PCD8544-Nokia-5110-LCD-library
 
@@ -18,7 +18,7 @@ SFPDDM (Arduino library for interfacing SFP modules and reading DDM information 
 https://github.com/SloMusti/sfpddm
 
 
-Installation
+## Installation
 --------------------------------------------------------------------------------
 
 To install this library, just place this entire folder as a subfolder in your
@@ -58,4 +58,3 @@ new "ddm.o" with your code will appear after the next press of "verify"
 
 This project is licensed under the GNU-V3 License - see the [LICENSE.md](LICENSE.md) file for details
 
-## Acknowledgments
