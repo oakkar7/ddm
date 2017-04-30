@@ -4,11 +4,11 @@ Arduino Lib for SFP module control and diagnostics with DDM protocol
 (1) A Lib using small form-factor pluggable (SFP) module DDM Digital diagnostics monitoring (DDM) protocol.
 (2)An Optical Power Meter with Arduino example is added for design example.
 
-version : 1.3 beta
-Date    : 27 Nov 2016
-By      : oakkar7, Myanmar
-blog    ; okelectronic.wordpress.com
-code    : https://github.com/oakkar7
+- version : 1.3 beta
+- Date    : 27 Nov 2016
+- By      : oakkar7, Myanmar
+- blog    ; okelectronic.wordpress.com
+- code    : https://github.com/oakkar7
 
 ## Credit to:
 1) Nokia 5110 LCD is powered by Adafruit, Adafruit-PCD8544-Nokia-5110-LCD-library
